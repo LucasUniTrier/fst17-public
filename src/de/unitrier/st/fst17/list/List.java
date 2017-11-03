@@ -1,4 +1,5 @@
 package de.unitrier.st.fst17.list;
+//Github username: LucasUniTrier
 
 /**
  * Doppelt verkettete Liste.
